@@ -108,6 +108,3 @@ Click **Test Connection**
 
 ✅ Connection successful
 
-------------------_________
-
----
